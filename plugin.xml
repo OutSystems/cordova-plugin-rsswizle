@@ -8,11 +8,10 @@
     <platform name="ios">
         <config-file parent="/*" target="config.xml">
             <feature name="RSSWizzle">
-                <param name="onload" value="true" />
                 <param name="ios-package" value="RSSWizzle" />
             </feature>
         </config-file>
-        <source-file src="src/ios/RSSwizzle.h" />
+        <header-file src="src/ios/RSSwizzle.h" />
         <source-file src="src/ios/RSSwizzle.m" />
     </platform>
 </plugin>
