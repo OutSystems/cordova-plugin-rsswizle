@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-rsswizzle",
-  "version": "1.0.0",
+  "name": "com.chuckytuh.cordova.rsswizzle",
+  "version": "1.0.1",
   "description": "Cordova plugin for RSSwizzle",
   "cordova": {
     "id": "com.chuckytuh.cordova.rsswizzle",
